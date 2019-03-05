@@ -1,0 +1,133 @@
+.tabs{
+	display: inline;
+	margin-right: 40px;
+	text-align: center;
+}
+h1,h4{
+	text-align: center;
+}
+.navbar{
+	text-align: center;
+
+}
+.one, .two{
+	max-width: 600px;
+}
+.three{
+	max-width: 900px;
+}
+.two{
+	float: right;
+	margin-left: 1px;
+}
+.one{
+	float: left;
+}
+.fronttwo{
+	width: 1400px;
+	text-align: center;
+}
+.headercolor{
+	background-color: #13F05D;
+	font-family: futura;
+	color: white;
+	
+	padding-bottom:8px;
+
+}
+body{
+	background-color: white;
+}
+
+}
+.ad{
+	float: right;
+	
+}
+.three{
+	float: left;
+}
+.bottomtwo{
+	width: 1400px;
+}
+h1{
+	font-size: 70px;
+}
+.pre{
+	text-align: left;
+}
+a{
+	text-decoration: none;
+	
+}
+.mediumpics{
+	height: auto;
+	width: 600px;
+}
+.largepic{
+	width: 900px;
+	height: auto;
+}
+.politicslayout{
+	margin-left: 40px;
+	max-width: 1400px;
+}
+.leftstory{
+	float: left;
+	max-width: 600px;
+}
+.rightstory{
+	float: right;
+	max-width: 600px;
+}
+.politicsheader{
+	font-size: 50px;
+	font-family: futura;
+	border-bottom-style: solid;
+}
+.bernpic{
+	width: 775px;
+	height: auto;
+	text-align: center;
+}
+.bernheader{
+	font-size: 40px;
+}
+.mainstory{
+	max-width: 1175px;
+}
+.polad{
+	width: 400px;
+	height: auto;
+	float: right;
+	
+}
+.bernstory{
+	float: left;
+	width: 775px;
+
+}
+.byline{
+	text-align: center;
+}
+.storypic{
+width: 800px;
+height: auto;
+margin-left:40px;
+}
+.plswork{
+	max-width:900px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.inlineimage{
+	width: 400px;
+	height: auto;
+	margin-left: 250px;
+}
+.map{
+	width: 400px;
+	height: auto;
+	margin-left: 210px;
+}
